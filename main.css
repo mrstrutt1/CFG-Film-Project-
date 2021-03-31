@@ -164,7 +164,6 @@ div.gallery {
 }
 
 /* ARTICLES PAGE */
-
 .articlescontainer {
    height: 800px;
    display: flex; 
@@ -200,4 +199,16 @@ div.gallery {
     width: 300px;
     text-align: center;
     font-size: large;
+}
+
+/* INDIVIDUAL ARTICLES */ 
+
+.articlesheading {
+    background-color: slategrey;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
 }
