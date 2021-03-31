@@ -171,11 +171,33 @@ div.gallery {
    flex-direction: row;
    flex-wrap: wrap; 
    justify-content: space-evenly;
+   align-items: center;
 }
 
 .articlebox {
     height: 300px; 
     margin: 10px;
-    background-color: red;
+    border-color: palevioletred;
+    background-color: plum;
+    border-style: solid;
+    padding: 10px;
     width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.articleboxsoon {
+    height: 300px; 
+    margin: 10px;
+    border-color: rgb(146, 43, 77);
+    background-color: rgb(173, 124, 173);
+    border-style: solid;
+    padding: 10px;
+    width: 300px;
+    text-align: center;
+    font-size: large;
 }
