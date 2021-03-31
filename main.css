@@ -164,6 +164,21 @@ div.gallery {
     margin-top: 10px;
 }
 
+.container {
+    background-color: rosybrown;
+    height: 250px;
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.contactbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
 /* ARTICLES PAGE */
 .articlescontainer {
    height: 800px;
