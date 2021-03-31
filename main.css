@@ -183,15 +183,6 @@ div.gallery {
     }
 
 /* ARTICLES PAGE */
-.contentbar {
-    background-color: snow;
-    height: 400px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin-top: 10px;
-}
 
 .articlesbar2 {
     background-color: pink;
