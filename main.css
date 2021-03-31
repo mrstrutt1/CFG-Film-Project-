@@ -16,6 +16,7 @@ li {
 
 li :hover {
     color: purple;
+    text-decoration: underline;
 }
 
 li a {
@@ -106,6 +107,7 @@ div.gallery {
 
 #roundup:hover {
     color: purple;
+    text-decoration: underline;
 }
 
 .imagebar {
@@ -130,9 +132,14 @@ div.gallery {
 .foot :hover {
     color: black; 
     font-size: inherit;
+    text-decoration: underline;
 }
 
-
+.foot2 :hover {
+    color: black;
+    font-size: inherit;
+    text-decoration: none;
+}
 
 /*OTHER PAGES */ 
 .heading2 {
