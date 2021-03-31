@@ -193,6 +193,11 @@ div.gallery {
     justify-content: space-evenly;
 }
 
+.social :hover {
+    color: purple;
+    text-decoration: underline;
+}
+
 /* ARTICLES PAGE */
 .articlescontainer {
    height: 800px;
