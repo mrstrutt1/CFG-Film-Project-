@@ -1,5 +1,9 @@
 /* GENERAL */ 
 
+body {
+    font-family: 'Fredoka One', cursive;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
