@@ -202,19 +202,22 @@ div.desc {
 
 /* ARTICLES PAGE */
 .articlescontainer {
+   margin-top: 10px;
+   margin-bottom: 10px;
    height: 800px;
    display: flex; 
    flex-direction: row;
    flex-wrap: wrap; 
    justify-content: space-evenly;
    align-items: center;
+   background-color: rgb(170, 170, 170);
 }
 
 .articlebox {
     height: 300px; 
     margin: 10px;
     border-color: palevioletred;
-    background-color: plum;
+    background-color: lightgray;
     border-style: solid;
     padding: 10px;
     width: 300px;
@@ -230,7 +233,7 @@ div.desc {
     height: 300px; 
     margin: 10px;
     border-color: rgb(146, 43, 77);
-    background-color: rgb(173, 124, 173);
+    background-color: pink;
     border-style: solid;
     padding: 10px;
     width: 300px;
@@ -241,7 +244,7 @@ div.desc {
 /* INDIVIDUAL ARTICLES */ 
 
 .articlesheading {
-    background-color: slategrey;
+    background-color: lightgray;
     height: 300px;
     display: flex;
     flex-direction: column;
