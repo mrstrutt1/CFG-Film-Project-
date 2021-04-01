@@ -241,6 +241,28 @@ div.desc {
     font-size: large;
 }
 
+.articlescontainer2 {
+    height:300px;
+    margin-bottom: 10px;
+    background-color: lightgray;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#contimg {
+    margin-left: 150px;
+}
+
+#conttxt {
+    height: 200px;
+    width: 700px;
+    margin-left: 150px;
+    display: flex;
+    align-items: center;
+}
+
 /* INDIVIDUAL ARTICLES */ 
 
 .articlesheading {
