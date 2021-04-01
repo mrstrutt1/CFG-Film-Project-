@@ -252,15 +252,19 @@ div.desc {
 }
 
 #contimg {
-    margin-left: 150px;
+    margin-left:150px;
+   
 }
+
+
 
 #conttxt {
     height: 200px;
-    width: 700px;
-    margin-left: 150px;
+    width: 650px;
+    margin-left: 160px;
     display: flex;
     align-items: center;
+    text-align: center;
 }
 
 /* INDIVIDUAL ARTICLES */ 
