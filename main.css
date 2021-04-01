@@ -358,6 +358,12 @@ input[type=text], select {
     align-items: center;
 }
 
+.articletext {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
 .mightlikecontainer {
     margin-top: 10px;
     margin-bottom: 10px;
