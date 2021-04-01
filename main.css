@@ -405,3 +405,15 @@ input[type=text], select {
     text-align: center;
    
 }
+
+.mainarticle2 {
+    margin-top: 10px;
+    height: 1000px;
+    background-color: lightgray;
+    margin-bottom: 10px;
+}
+
+.aaa {
+    margin-top: 10px;
+    margin-left: 15px;
+}
