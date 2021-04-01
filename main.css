@@ -322,3 +322,45 @@ input[type=text], select {
     align-items: center;
     margin-top: 10px;
 }
+
+.mainarticle {
+    margin-top: 10px;
+    height: 600px;
+    background-color: lightgray;
+}
+
+.mightlikecontainer {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height:200px;
+    background-color: pink;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#like {
+    text-align: center;
+    width: 250px;
+}
+
+.likearticle {
+    border-color: palevioletred;
+    border-style: solid;
+    height: 150px;
+    width: 200px;
+}
+
+#artmain {
+    background-color: rosybrown;
+    border-color: slategray;
+    border-style: solid;
+    height: 150px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   
+}
