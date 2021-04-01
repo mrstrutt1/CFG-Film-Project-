@@ -300,10 +300,7 @@ input[type=text], select {
 
 #contimg {
     margin-left:150px;
-   
 }
-
-
 
 #conttxt {
     height: 200px;
@@ -317,7 +314,7 @@ input[type=text], select {
 /* INDIVIDUAL ARTICLES */ 
 
 .articlesheading {
-    background-color: lightgray;
+    background-color: rgb(170, 170, 170);
     height: 300px;
     display: flex;
     flex-direction: column;
@@ -330,11 +327,6 @@ input[type=text], select {
     margin-top: 10px;
     height: 600px;
     background-color: lightgray;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    justify-content:flex-start;
-    align-items: flex-start;
 }
 
 .writtenby {
@@ -358,7 +350,7 @@ input[type=text], select {
     align-items: center;
 }
 
-.articletext {
+#articletext {
     margin-left: 20px;
     margin-right: 20px;
     font-family: 'Roboto', sans-serif;
