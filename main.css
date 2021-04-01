@@ -66,6 +66,7 @@ div.gallery {
     height: 350px;
     padding: 10px;
     border-color: palevioletred;
+    border-radius: 25px;
     border-style: solid;
     display: flex;
     flex-direction: column;
@@ -263,6 +264,7 @@ input[type=text], select {
     border-color: palevioletred;
     background-color: lightgray;
     border-style: solid;
+    border-radius: 25px;
     padding: 10px;
     width: 300px;
     display: flex;
@@ -277,6 +279,7 @@ input[type=text], select {
     height: 300px; 
     margin: 10px;
     border-color: rgb(146, 43, 77);
+    border-radius: 25px;
     background-color: pink;
     border-style: solid;
     padding: 10px;
