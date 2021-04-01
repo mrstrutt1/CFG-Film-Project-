@@ -67,16 +67,18 @@ div.gallery {
     border-color: palevioletred;
     border-style: solid;
   }
+
   
-  div.gallery img {
+div.gallery img {
     width: 100%;
     height: 300px;
   }
   
-  div.desc {
+div.desc {
     padding: 15px;
     text-align: center;
   }
+
 
 .articles {
     display: flex; 
@@ -91,7 +93,7 @@ div.gallery {
 .articles :hover {
     border-style: solid;
     border-color: palevioletred;
-    color: purple;
+    text-decoration: underline;
     padding: 5px;
 }
 
