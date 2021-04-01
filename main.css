@@ -164,12 +164,13 @@ div.desc {
 /* CONTACT */ 
 .contactbar {
     background-color: snow;
-    height: 400px;
+    height: 300px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .container {
