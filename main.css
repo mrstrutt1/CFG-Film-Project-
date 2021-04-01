@@ -333,7 +333,7 @@ input[type=text], select {
 
 .mainarticle {
     margin-top: 10px;
-    height: 600px;
+    height: 550px;
     background-color: lightgray;
 }
 
@@ -408,7 +408,7 @@ input[type=text], select {
 
 .mainarticle2 {
     margin-top: 10px;
-    height: 1000px;
+    height: 840px;
     background-color: lightgray;
     margin-bottom: 10px;
 }
